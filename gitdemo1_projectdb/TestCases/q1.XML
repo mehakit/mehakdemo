@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TC TCId="5e77782c26164aa1a74731c08af0aa7a" ManualTCId="q1" TCName="q1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WF>
+    <Task Name="gitdemo1" Desc="gitdemo1" TaskSeq="1" ID="df4a9cee51fc442c8f66c1448488dd06" UpdateTS="5/24/2019 12:51:03 PM" FileName="gitdemo1.XML" IsSystemTask="False" OnError="Continue" isCommented="False">
+    </Task>
+  </WF>
+  <Data>
+    <TCDataSet Iteration="1" Mark="True" TCDataSetTag="">
+    </TCDataSet>
+  </Data>
+</TC>
